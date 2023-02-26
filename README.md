@@ -33,7 +33,7 @@ Prior to working with data, I have had close to 4 years of experience (job + res
 - Skills: Data Cleaning, EDA using Python Libraries, Data Visualization
 - Link: https://github.com/iraban-dutta/bizCase-02-netflix-movies-tvshows
   
-### Business Case 3: Customer profiling of Aerofit
+### Business Case 3: Customer profiling of Aerofit Treadmills
 - Skills: EDA using Python Libraries, Applied Statistics
 - Link: https://github.com/iraban-dutta/bizCase-03-aerofit-customer-profiling
 
