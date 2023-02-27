@@ -6,7 +6,7 @@
 
 
 ## About me
-I'm a Data Analyst with a strong & an exhaustive skillset in SQL, Python, BI Tools & Statistics. Down below, I have listed some of the projects on which I have worked to showcase my skills with:
+I'm a Data Analyst with a strong & exhaustive skillset in SQL, Python, BI Tools & Statistics. Down below, I have listed some of the projects on which I have worked to showcase my skills with:
 - SQL (Joins, Group-By, Window-Functions, DateTime & String functions, CTEs, etc)
 - Data Cleaning
 - EDA to generate insights & curate recommendations relevant to the problem statement
@@ -14,7 +14,7 @@ I'm a Data Analyst with a strong & an exhaustive skillset in SQL, Python, BI Too
 - Dashboarding (using BI Tools such as Tableau) 
 - Applied Statistics (Conditional Probability, Random Variables & Distributions, CLT, Hypothesis Testing, etc )
 
-Apart from the above, I have keen interest in ML & DL and how it can be leveraged to solve business problems across different verticals. I am currently upskilling in this domian and hope see myself as a skilled professional comfortable to work across the multiple stages in a typical ML project.
+Apart from the above, I have a keen interest in ML & DL and how it can be leveraged to solve business problems across different verticals. I am currently upskilling in this domian and hope see myself as a skilled professional comfortable to work across the multiple stages in a typical ML project.
 
 Prior to working with data, I have had close to 4 years of experience (job + research) as an Analog & Mixed Signal IC Designer. I have designed and worked across many blocks that we typically encounter in the signal chain of modern electronic systems such as ADCs, DACs, Osciallators, etc.
 
