@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Iraban Dutta</h1>
 
-I'm a Data Scientist with an exhaustive skill set that spans the entire machine learning project lifecycle. From data collection and preprocessing to deploying sophisticated models, I specialize in a wide range of areas including Data Science, Machine Learning, NLP, Deep Learning and MLOps.
+I'm a Data Scientist with an exhaustive skill set that spans the entire machine learning project lifecycle. From data collection and preprocessing to deploying sophisticated models, I specialize in a wide range of areas including Data Science, Machine Learning, NLP, Deep Learning, and MLOps.
+
+![data_banner1](https://github.com/user-attachments/assets/d13a0a6c-f765-4ed2-a166-a2265ebf324a)
 
 ## 🚀 My Latest ML Projects
 
 - **[Proposal Approval Prediction for a Non-Profit Organization](https://github.com/iraban-dutta/donor-choose-application-screening)**:
-  - A Flask-based ML web application employing advanced NLP techniques, extensive data cleaning, iterative model training for performance optimization, and a Tableau dashboard for visualization..
+  - A Flask-based ML web application employing advanced NLP techniques, extensive data cleaning, iterative model training for performance optimization, and a Tableau dashboard for visualization.
 - **[Citywide Parking Availability Prediction](https://github.com/iraban-dutta/parking-availability-prediction)**:
   - A Streamlit-based ML web application utilizing smart data preprocessing, time series, regression, and hybrid approaches for optimizing model performance, complemented by effective evaluation strategies.
 
 
 ## 📌 Professional Overview
-- 💼 Currently Working at Bidgely Technologies, an AI-powered dynamic startup operating in the energy analytics domain.
+- 💼 Currently working at Bidgely Technologies, an AI-powered and dynamic startup specializing in energy analytics.
 - 📄 Know About My [Experiences](https://drive.google.com/file/d/19LpUZcZryj9fcp52F6JAp_xWHdSc2RBr/view?usp=sharing)
 - 🤝 You Can Reach Out to Me via [LinkedIn](https://www.linkedin.com/in/iraban-dutta/) and [Email](mailto:irabandutta.2020@gmail.com)
 
