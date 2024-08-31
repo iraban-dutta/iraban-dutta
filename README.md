@@ -1,50 +1,29 @@
-<h1 align="center">Hi, I'm Iraban Dutta</h1>
-<h3 align="center">Data Analyst | Upskilling in Data Science & Machine Learning | Ex-Integrated Circuit Design Engineer</h3>
+<h1 align="center">Hi 👋, I'm Iraban Dutta</h1>
+
+I'm a Data Scientist with an exhaustive skill set that spans the entire machine learning project lifecycle. From data collection and preprocessing to deploying sophisticated models, I specialize in a wide range of areas including Data Science, Machine Learning, NLP, Deep Learning and MLOps.
+
+## 🚀 My Latest ML Projects
+
+- **[Proposal Approval Prediction for a Non-Profit Organization](https://github.com/iraban-dutta/donor-choose-application-screening)**:
+  - A Flask-based ML web application employing advanced NLP techniques, extensive data cleaning, iterative model training for performance optimization, and a Tableau dashboard for visualization..
+- **[Citywide Parking Availability Prediction](https://github.com/iraban-dutta/parking-availability-prediction)**:
+  - A Streamlit-based ML web application utilizing smart data preprocessing, time series, regression, and hybrid approaches for optimizing model performance, complemented by effective evaluation strategies.
 
 
-<img align="center" src="https://github.com/iraban-dutta/iraban-dutta/blob/main/da_banner1.png">
-
-
-## About me
-I'm a Data Analyst with 1.5+ years of experience and a strong & exhaustive skillset in SQL, Python, BI Tools & Statistics. Down below, I have listed some of the projects on which I have worked to showcase my skills with:
-- SQL (Joins, Group-By, Window-Functions, DateTime & String functions, CTEs, etc)
-- Data Cleaning
-- EDA to generate insights & curate recommendations relevant to the problem statement
-- Data Visualization 
-- Dashboarding (using BI Tools such as Tableau) 
-- Applied Statistics (Conditional Probability, Random Variables & Distributions, CLT, Hypothesis Testing, etc )
-
-Apart from the above, I have a keen interest in ML & DL and how it can be leveraged to solve business problems across different verticals. I am currently upskilling in this domian and hope to see myself as a skilled professional comfortable to work across the multiple stages in a typical ML project.
-
-Prior to working with data, I have worked as an IC Design Engineer. I have designed and worked across many blocks that we typically encounter in the signal chain of modern electronic systems such as ADCs, DACs, Osciallators, etc.
-
-
-## Projects
- 
-### Portfolio Project: Analysing spending habits from personal bank statements
-- Skills: Data Cleaning, EDA using Python Libraries, Data Visualization, Tableau (for dashboarding)
-- Link: https://github.com/iraban-dutta/personal-spending-habits
-
-### Business Case 1: Analysis of an E-commerce sales dataset
-- Skills: BigQuery(SQL), Tableau (for plotting)
-- Link: https://github.com/iraban-dutta/bizCase-01-target-brazilian-ecommerce
-  
-### Business Case 2: EDA on Netflix Movies & TV-shows dataset
-- Skills: Data Cleaning, EDA using Python Libraries, Data Visualization
-- Link: https://github.com/iraban-dutta/bizCase-02-netflix-movies-tvshows
-  
-### Business Case 3: Customer profiling of Aerofit Treadmills
-- Skills: EDA using Python Libraries, Applied Statistics
-- Link: https://github.com/iraban-dutta/bizCase-03-aerofit-customer-profiling
+## 📌 Professional Overview
+- 💼 Currently Working at Bidgely Technologies, an AI-powered dynamic startup operating in the energy analytics domain.
+- 📄 Know About My [Experiences](https://drive.google.com/file/d/19LpUZcZryj9fcp52F6JAp_xWHdSc2RBr/view?usp=sharing)
+- 🤝 You Can Reach Out to Me via [LinkedIn](https://www.linkedin.com/in/iraban-dutta/) and [Email](mailto:irabandutta.2020@gmail.com)
 
 
 
+<!--
 ## Socials:
 
 <p align="left">
 <a href="https://linkedin.com/in/iraban-dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iraban-dutta" height="30" width="40" /></a>
 </p>
-
+-->
 
 
 <!--
