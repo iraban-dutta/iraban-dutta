@@ -6,7 +6,7 @@ I'm a Data Scientist with an exhaustive skill set that spans the entire machine 
 
 ## 🚀 My Latest ML Projects
 
-- **[Proposal Approval Prediction for a Non-Profit Organization](https://github.com/iraban-dutta/donor-choose-application-screening)**:
+- **[Automating Funding Approval for a Non-Profit Organization](https://github.com/iraban-dutta/donor-choose-application-screening)**:
   - A Flask-based ML web application employing advanced NLP techniques, extensive data cleaning, iterative model training for performance optimization, and a Tableau dashboard for visualization.
 - **[Citywide Parking Availability Prediction](https://github.com/iraban-dutta/parking-availability-prediction)**:
   - A Streamlit-based ML web application utilizing smart data preprocessing, time series, regression, and hybrid approaches for optimizing model performance, complemented by effective evaluation strategies.
