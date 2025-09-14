@@ -13,7 +13,7 @@ I'm a Data Scientist with an exhaustive skill set that spans the entire machine 
 
 
 ## 📌 Professional Overview
-- 💼 Currently working at Impact Analytics, an AI-native and dynamic startup specializing in retail analytics.
+- 💼 Currently working as a Lead Data Scientist at Impact Analytics, an AI-native and dynamic startup specializing in retail analytics.
 - 🤝 You Can Reach Out to Me via [LinkedIn](https://www.linkedin.com/in/iraban-dutta/) and [Email](mailto:irabandutta.2020@gmail.com)
 
 
