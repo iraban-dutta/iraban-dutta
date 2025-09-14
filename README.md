@@ -13,8 +13,7 @@ I'm a Data Scientist with an exhaustive skill set that spans the entire machine 
 
 
 ## 📌 Professional Overview
-- 💼 Currently working at Bidgely Technologies, an AI-powered and dynamic startup specializing in energy analytics.
-- 📄 Know About My [Experiences](https://drive.google.com/file/d/1G_ty8wa4bgvPTzjexQYMLQLTa-y_xTwW/view?usp=sharing)
+- 💼 Currently working at Impact Analytics, an AI-native and dynamic startup specializing in retail analytics.
 - 🤝 You Can Reach Out to Me via [LinkedIn](https://www.linkedin.com/in/iraban-dutta/) and [Email](mailto:irabandutta.2020@gmail.com)
 
 
