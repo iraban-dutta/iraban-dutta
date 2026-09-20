@@ -15,9 +15,10 @@ Currently, I work on **foundation models for time-series forecasting**, **repres
   - Focused on the **systems side of LLM training** through benchmarking and profiling, identifying performance bottlenecks and optimizing the implementation to improve **training throughput (tokens/sec)** and overall efficiency.
 
 
-## ✍️ Technical BLOG: [From First Principles](https://iraban-dutta.github.io/from-first-principles/)
+## ✍️ Technical BLOG: 
 
-I also write technical notes on **AI/ML fundamentals**, focusing on deriving concepts and discussing my implementation details. 
+- I also write technical notes on **AI/ML fundamentals**, focusing on deriving concepts and discussing my implementation details. 
+- Blog Link: [From First Principles](https://iraban-dutta.github.io/from-first-principles/)
 
 
 ## 📌 Professional
