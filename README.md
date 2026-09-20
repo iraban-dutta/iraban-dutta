@@ -17,7 +17,7 @@ Currently, I work on **foundation models for time-series forecasting**, **repres
 
 ## ✍️ Technical BLOG: 
 
-- I also write technical notes on different topics in **AI/ML**, focusing on deriving concepts and discussing my implementation details. 
+- I also write technical notes on various topics in **AI/ML**, focusing on deriving concepts and discussing my implementation details. 
 - Blog Link: **[From First Principles](https://iraban-dutta.github.io/from-first-principles/)**
 
 
