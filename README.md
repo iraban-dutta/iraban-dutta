@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iraban</h1>
 
-AI/ML Engineer working at the intersection of **LLM research and systems**. I work on **Transformer architectures, model adaptation, compression, and efficient inference**, with hands-on experience spanning attention mechanisms, MoE, pruning, knowledge distillation, quantization, and LLM serving.
+AI/ML Engineer working at the intersection of **LLM research and systems**. I work on **Transformer architectures, model adaptation, compression, and efficient inference**, with hands-on experience spanning attention mechanisms, MoEs, pruning, knowledge distillation, quantization, and LLM serving.
 
 Currently, I work on **foundation models for time-series forecasting**, **representation learning** and **efficient LLMs for production**, with a focus on understanding models from architecture and training to deployment.
 
