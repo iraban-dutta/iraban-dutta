@@ -2,7 +2,7 @@
 
 AI/ML Engineer working at the intersection of **LLM research and systems**. I work on **Transformer architectures, model adaptation, compression, and efficient inference**, with hands-on experience spanning attention mechanisms, MoEs, pruning, knowledge distillation, quantization, and LLM serving.
 
-Currently, I work on **foundation models for time-series forecasting**, **representation learning** and **efficient LLMs for production**, with a focus on understanding models from architecture and training to deployment.
+Currently, I work on **foundation models for time-series forecasting**, **representation learning**, and **efficient LLMs for production**, spanning model development, training, and inference.
 
 ![data\_banner1](https://github.com/user-attachments/assets/d13a0a6c-f765-4ed2-a166-a2265ebf324a)
 
