@@ -1,21 +1,28 @@
-<h1 align="center">Hi 👋, I'm Iraban Dutta</h1>
+<h1 align="center">Hi 👋, I'm Iraban</h1>
 
-I'm a Data Scientist with an exhaustive skill set that spans the entire machine learning project lifecycle. From data collection and preprocessing to deploying sophisticated models, I specialize in a wide range of areas including Data Science, Machine Learning, NLP, Deep Learning, and MLOps.
+AI/ML Engineer working at the intersection of **LLM research and systems**. I work on **Transformer architectures, model adaptation, compression, and efficient inference**, with hands-on experience spanning attention mechanisms, MoE, pruning, knowledge distillation, quantization, and LLM serving.
 
-![data_banner1](https://github.com/user-attachments/assets/d13a0a6c-f765-4ed2-a166-a2265ebf324a)
+Currently, I work on **foundation models for time-series forecasting** and **efficient LLMs for production**, with a focus on understanding models from architecture and training to deployment.
 
-## 🚀 My Latest ML Projects
-
-- **[Automating Funding Approval for a Non-Profit Organization](https://github.com/iraban-dutta/donor-choose-application-screening)**:
-  - A Flask-based ML web application employing advanced NLP techniques, extensive data cleaning, iterative model training for performance optimization, and a Tableau dashboard for visualization.
-- **[Citywide Parking Availability Prediction](https://github.com/iraban-dutta/parking-availability-prediction)**:
-  - A Streamlit-based ML web application utilizing smart data preprocessing, time series, regression, and hybrid approaches for optimizing model performance, complemented by effective evaluation strategies.
+![data\_banner1](https://github.com/user-attachments/assets/d13a0a6c-f765-4ed2-a166-a2265ebf324a)
 
 
-## 📌 Professional Overview
-- 💼 Currently working as a Lead Data Scientist at Impact Analytics, an AI-native and dynamic startup specializing in retail analytics.
+## 🚀 My Latest Projects
+
+- **[LLM-from-Scratch](https://github.com/iraban-dutta/llm-from-scratch)**
+  - Built a modern Transformer-based language model **from scratch**, including the complete **data, training, and inference pipelines**, with a focus on understanding LLM components rather than treating them as black boxes.
+  - Implemented core LLM components from first principles, including **attention mechanisms (MHA, GQA, MHLA), RoPE, Mixture-of-Experts (MoE), and KV caching**, along with autoregressive generation and sampling.
+  - Focused on the **systems side of LLM training** through benchmarking and profiling, identifying performance bottlenecks and optimizing the implementation to improve **training throughput (tokens/sec)** and overall efficiency.
+
+
+## ✍️ Technical BLOG: [From First Principles](https://iraban-dutta.github.io/from-first-principles/)
+
+I also write technical notes on **AI/ML fundamentals**, focusing on deriving concepts and discussing my implementation details. 
+
+
+## 📌 Professional
+- 💼 Currently working as a Lead AI Engineer at Impact Analytics, working on AI/ML systems for retail analytics.
 - 🤝 You Can Reach Out to Me via [LinkedIn](https://www.linkedin.com/in/iraban-dutta/) and [Email](mailto:irabandutta.2020@gmail.com)
-
 
 
 <!--
