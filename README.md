@@ -7,7 +7,7 @@ Currently, I work on **foundation models for time-series forecasting**, **repres
 ![data\_banner1](https://github.com/user-attachments/assets/d13a0a6c-f765-4ed2-a166-a2265ebf324a)
 
 
-## 🚀 My Latest Projects
+## 🚀 My Latest Projects:
 
 - **[LLM-from-Scratch](https://github.com/iraban-dutta/llm-from-scratch)**
   - Built a modern Transformer-based language model **from scratch**, including the complete **data, training, and inference pipelines**, with a focus on understanding LLM components rather than treating them as black boxes.
@@ -17,11 +17,11 @@ Currently, I work on **foundation models for time-series forecasting**, **repres
 
 ## ✍️ Technical BLOG: 
 
-- I also write technical notes on **AI/ML fundamentals**, focusing on deriving concepts and discussing my implementation details. 
+- I also write technical notes on different topics in **AI/ML**, focusing on deriving concepts and discussing my implementation details. 
 - Blog Link: **[From First Principles](https://iraban-dutta.github.io/from-first-principles/)**
 
 
-## 📌 Professional
+## 📌 Professional:
 - 💼 Currently working as a Lead AI Engineer at Impact Analytics, working on AI/ML systems for retail analytics.
 - 🤝 You Can Reach Out to Me via [LinkedIn](https://www.linkedin.com/in/iraban-dutta/) and [Email](mailto:irabandutta.2020@gmail.com)
 
